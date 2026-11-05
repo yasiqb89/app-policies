@@ -13,12 +13,15 @@ Contact: yas.appdesk@gmail.com
 
 What the policy says, as the stores ask it:
 
-- **App Store › App Privacy:** Data Not Collected. No tracking.
-- **Google Play › Data safety:** no data collected, no data shared. Data is
-  processed on the device only. No account, so no account-deletion URL is needed.
+- **App Store › App Privacy:** name, email address, other user content, user
+  ID and device ID, each used for app functionality and linked to the person.
+  No tracking.
+- **Google Play › Data safety:** the same data collected, not shared, encrypted
+  in transit, optional for the person, and deletable. Account deletion URL:
+  https://yasiqb89.github.io/app-policies/seven/privacy.html#delete
 
 Update the policy (and its effective date) before shipping anything that sends
-data off the phone, adds an account, analytics or ads.
+more data off the device, or adds analytics or ads.
 
 ## Adding an app
 
